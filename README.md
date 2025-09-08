@@ -1,9 +1,7 @@
 # FEM-Course
-
 A well-organized repository for Finite Element Method coursework including assignments, projects, and implementation examples.
 
 ## Repository Structure
-
 This repository is organized into the following folders for easy navigation and academic best practices:
 
 ### 📁 [Assignments](./Assignments/)
@@ -41,8 +39,14 @@ Textbooks and reference materials:
 - Technical manuals and documentation
 - Research papers related to FEM
 
-## Course Topics Covered
+### 📁 [Reports](./Reports/)
+Detailed course and project reports:
+- Detailed course and project reports
+- Formatted writeups and results documentation
+- FEM coursework analysis and findings
+- Project results documentation relevant to FEM coursework
 
+## Course Topics Covered
 - Finite Element Method fundamentals
 - Numerical integration techniques (Gauss-Legendre)
 - MATLAB implementation of FEM algorithms
@@ -50,28 +54,24 @@ Textbooks and reference materials:
 - Post-processing techniques
 
 ## Getting Started
-
 1. Browse the relevant folder based on your needs
 2. Each folder contains a README.md with specific details about its contents
 3. MATLAB files can be directly opened and executed in MATLAB environment
 4. Reference the documentation in each folder for file organization guidelines
 
 ## File Organization Guidelines
-
 - **Assignments**: Organized by assignment number or topic
 - **Exams**: Organized by exam type (midsem, final) and semester
 - **MATLAB Scripts**: Organized by topic or assignment
 - **Notes**: Organized by lecture number, topic, or date
 - **Reference Books**: Organized by author, subject, or relevance
+- **Reports**: Organized by project type and submission date
 
 ## Contributing
-
 When adding new files:
 1. Place them in the appropriate folder
 2. Follow the naming conventions described in each folder's README
 3. Update documentation as needed
 4. Maintain clear and descriptive commit messages
 
----
-
-*This repository structure follows academic best practices for course material organization.*
+This repository structure follows academic best practices for course material organization.
